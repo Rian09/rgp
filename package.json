@@ -1,1 +1,14 @@
-{"name":"bot-wa-953","version":"1.0.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"@whiskeysockets/baileys":"^6.7.9","pino":"^9.3.2","qrcode-terminal":"^0.12.0"}}
+{
+  "name": "bot-pengaduan-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp layanan pengaduan dengan sistem tiket sederhana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
